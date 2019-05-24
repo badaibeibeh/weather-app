@@ -4,7 +4,7 @@ export default class Weather extends Component {
   render() {
     return (
       <div>
-        
+        Hasil cuaca
       </div>
     )
   }
